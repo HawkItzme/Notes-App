@@ -15,7 +15,6 @@
         app:layout_constraintRight_toRightOf="parent"
         android:hint="Enter note here"
         android:layout_margin="16dp"
-        android:text="16sp"
         />
 
     <Button
